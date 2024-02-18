@@ -1,4 +1,6 @@
 # React + Vite
 
-This is a simpple meme generator developed using react
+This is a simple meme generator developed using react
+
+
 it uses an api to get trending memes
